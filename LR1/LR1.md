@@ -4,7 +4,7 @@
 
 <br>
 
-### Варіант 0, модель у середовищі NetLogo:
+### Варіант 3, модель у середовищі NetLogo:
 [Virus](https://www.netlogoweb.org/launch#https://www.netlogoweb.org/assets/modelslib/Sample%20Models/Biology/Virus.nlogo). Модель поширення захворювання у людській популяції.
 
 <br>
