@@ -76,7 +76,7 @@
 - **infectiousness**: 65
 - **duration**: 20
 
-| infectiousness | %infected | %immune |
+| chance-recover | %infected | %immune |
 | -------------- | --------- | ------- |
 | 10             | 28        | 10      |
 | 20             | 37        | 6       |
@@ -100,7 +100,7 @@
 - **infectiousness**: 65
 - **chance-recover**: 75
 
-| infectiousness | %infected | %immune |
+| duration | %infected | %immune |
 | -------------- | --------- | ------- |
 | 10             | 0         | 0       |
 | 20             | 20        | 33      |
